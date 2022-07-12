@@ -14,5 +14,5 @@
 - tqdm
 
 ## How to run:
-Step 1: Extract data_brown.zip
-Step 2: Open and run jupyter file: Postag Prediction Using Hidden Markov Postagging (Viterbi).ipynb
+- Step 1: Extract data_brown.zip
+- Step 2: Open and run jupyter file: Postag Prediction Using Hidden Markov Postagging (Viterbi).ipynb
