@@ -14,5 +14,14 @@
 - tqdm
 
 ## How to run:
-- Step 1: Extract data_brown.zip
-- Step 2: Open and run jupyter file: Postag Prediction Using Hidden Markov Postagging (Viterbi).ipynb
+
+### For Training step by step:
+
+Step 1: Extract data_brown.zip
+
+Step 2: Open and run
+- Buidling POS tagger using Hidden Markov Postagging (Viterbi).ipynb
+
+### For Testing Run: 
+Run file: 
+- Testing POS Tagger's Trained model .ipynb
